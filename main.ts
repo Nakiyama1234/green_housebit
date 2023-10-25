@@ -1,3 +1,6 @@
+input.onButtonPressed(Button.A, function () {
+	
+})
 let soil = 0
 ESP8266ThingSpeak.connectWifi(
 SerialPin.P12,
